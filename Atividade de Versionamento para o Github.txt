@@ -1,0 +1,12 @@
+ Atividade de Versionamento
+
+**Participantes:** Ryan Lucas e Luann Gabriel
+
+**O que é um Branch?**
+O Branch é como uma linha do tempo paralela para o seu código. Ele é um ambiente seguro onde você pode testar novas ideias ou desenvolver funcionalidades sem medo de estragar a versão oficial que já está funcionando.
+
+**Para que o Branch serve?**
+Ele serve como um rascunho do seu projeto. Você cria uma cópia, faz todas as alterações que quiser e testa tudo ali dentro. Se o resultado der errado, é só jogar fora, mas se ficar bom, você junta tudo com o projeto principal e o trabalho vira oficial.
+
+**Aplicações Práticas**
+O uso de branches é fundamental para consertar erros urgentes, como um bug no login, permitindo que você crie uma correção rápida sem precisar tirar o site do ar. Também serve para criar funções demoradas, como um Modo Escuro, mantendo o código bagunçado separado da versão final que o público acessa. Por fim, é perfeito para testes arriscados, pois se uma nova tecnologia não funcionar como o esperado, basta deletar a branch e seu projeto principal continua intacto e seguro.
